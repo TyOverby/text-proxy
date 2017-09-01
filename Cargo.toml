@@ -1,0 +1,10 @@
+[package]
+name = "text-proxy"
+version = "0.1.0"
+authors = ["Ty Overby <ty@pre-alpha.com>"]
+
+[[bin]]
+name="text-proxy"
+path="./src/main.rs"
+
+[dependencies]
